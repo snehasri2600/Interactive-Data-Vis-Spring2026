@@ -36,6 +36,8 @@ toc: true
 The reason I want to develop customized, moving maps by the end of April is that my capstone will involve a time-series visualization of water quality in the Jamaica Bay between different sensor stations. 
 
 <br>
+
+<img src="https://seaandskyny.com/wp-content/uploads/2011/05/jambaymap.jpg" alt="2011 Jamaica Bay wastewater map"> 
 <br>
 
 ### How I am going to accomplish these goals:
