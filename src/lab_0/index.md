@@ -34,9 +34,6 @@ toc: true
 </table>
 
 The reason I want to develop customized, moving maps by the end of April is that my capstone will involve a time-series visualization of water quality in the Jamaica Bay between different sensor stations. 
-<br>
-
-<img src="FSHRI_Map.png" alt ="A map of NYC's Flood Susceptibility to Harm and Recovery Index (FSHRI)">
 
 <br>
 <br>

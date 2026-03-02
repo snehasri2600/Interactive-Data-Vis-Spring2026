@@ -1,4 +1,4 @@
-# Interactive Data Visualization (Fall 2025)
+# Interactive Data Visualization (Spring 2026)
 
 Welcome to the CUNY Interactive Data Visualization course repository for fall 2025. This repository will be updated periodically throughout the semester with labs and data.
 
