@@ -1,4 +1,4 @@
-# Interactive-Data-Vis-Spring-2026
+# Interactive-Data-Vis-Fall-2025
 
 This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
 
