@@ -79,6 +79,7 @@ Plot.plot({
     y: {grid: true},
     width: 500,
     height: 300,
+    color: {legend: true},
     marks: [
         Plot.dot(
             data,
@@ -96,6 +97,7 @@ Plot.plot({
     y: {grid: true},
     width: 500,
     height: 300,
+    color: {legend: true},
     marks: [
         Plot.dot(
             data,
@@ -113,6 +115,7 @@ Plot.plot({
     y: {grid: true},
     width: 500,
     height: 300,
+    color: {legend: true},
     marks: [
         Plot.dot(
             data,
